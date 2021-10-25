@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/NitinMa2/NitinMa2/main/nitin_header.gif "Header")](https://github.com/NitinMa2)
+
 ### Hi there 👋
 
 <!--
